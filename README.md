@@ -1,1 +1,1 @@
-# 02_overriding-methods_in-GoLang
+# overriding-methods_in-GoLang
